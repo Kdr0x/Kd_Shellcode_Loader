@@ -2,11 +2,17 @@
 A malware analyst's tool for helping to analyze shellcode!
 
 File:		Kd_Shellcode_Loader.exe
+
 Author: 	Gary "kd" Contreras
+
 File Size: 	12,800 bytes
+
 Compiled:	Mar 15, 2021 18:35:28 (EST)
+
 MD5:		AE75F99E38031844052AF632687E6E49
+
 SHA1:		98A125887B2878BCE2B07749AEFB6FEB8C2270A0
+
 SHA256: 	BF26CB0585DD94425F19A58904810DD37B7A4C624C01A1C725D30A22F526ECD7
 
 
