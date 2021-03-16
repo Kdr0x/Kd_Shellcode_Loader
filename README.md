@@ -11,7 +11,7 @@ Date: 		3/15/2021
 
 (32-bit version)
 
-File:		Kd_Shellcode_Loader_x32.exe
+File:		Kd_Shellcode_Loader_32.exe
 
 File Size: 	11,264 bytes
 
@@ -27,7 +27,7 @@ SHA256:	70A19881867A037F0DDD59D9964201373FB1F13C518660AB22881229D8B138BE
 
 (64-bit version)
 
-File:		Kd_Shellcode_Loader_x64.exe
+File:		Kd_Shellcode_Loader_64.exe
 
 File Size: 	12,800 bytes
 
