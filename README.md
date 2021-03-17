@@ -18,6 +18,10 @@ Summary:
 This program is a malware analysis tool intended to make it easy to launch shellcode prior to debugging. Source code 
 has been included in the GitHub repository.
 
+Future Updates:
+
+Ability to launch shellcode from a specific file offset, per Lenny's/Evan's recommendations. Check back for this!
+
 Details:
 
 The Mar 17, 2021 update now features more error detection, ability to easily compile in 32-bit or 64-bit variations, command 
