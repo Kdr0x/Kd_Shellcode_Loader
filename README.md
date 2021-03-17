@@ -1,45 +1,13 @@
 # Kd_Shellcode_Loader
 A malware analyst's tool for helping to analyze shellcode!
 
-Name: 		Kd Shellcode Loader
+Name: 		Shellcode Loader
 
-Author: 	Gary "kd" Contreras
+Authors: 	Gary "kd" Contreras, Evan Dygert
 
 Date: 		3/15/2021
 
-========================================================================================
-
-(32-bit version)
-
-File:		Kd_Shellcode_Loader_32.exe
-
-File Size: 	11,264 bytes
-
-Compiled:	Mar 15, 2021 19:06:07 (EST)
-
-MD5:		018EBE0AB143C9A304D96C925A02AD0A
-
-SHA1:		F6289C9EE1638776DCA315355865E4D5B9E5CFE2
-
-SHA256:	70A19881867A037F0DDD59D9964201373FB1F13C518660AB22881229D8B138BE
-
-========================================================================================
-
-(64-bit version)
-
-File:		Kd_Shellcode_Loader_64.exe
-
-File Size: 	12,800 bytes
-
-Compiled:	Mar 15, 2021 18:35:28 (EST)
-
-MD5:		AE75F99E38031844052AF632687E6E49
-
-SHA1:		98A125887B2878BCE2B07749AEFB6FEB8C2270A0
-
-SHA256: 	BF26CB0585DD94425F19A58904810DD37B7A4C624C01A1C725D30A22F526ECD7
-
-========================================================================================
+Current version directory: /new_2021-Mar-21/
 
 Initial Thoughts:
 
