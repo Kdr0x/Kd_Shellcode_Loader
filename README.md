@@ -1,4 +1,4 @@
-# Kd_Shellcode_Loader
+# Shellcode_Loader (aka "RunSc")
 A malware analyst's tool for helping to analyze shellcode!
 
 Name: 		Shellcode Loader
