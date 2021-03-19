@@ -5,9 +5,9 @@ Name: 		Shellcode Loader
 
 Authors: 	Gary "kd" Contreras, Evan Dygert
 
-Date: 		3/15/2021
+Date: 		3/15/2021 (original)
 
-Current version directory: /new_2021-Mar-17/
+Current version directory: /current_2021-Mar-18/
 
 Initial Thoughts:
 
@@ -20,11 +20,11 @@ has been included in the GitHub repository.
 
 Future Updates:
 
-Ability to launch shellcode from a specific file offset, per Lenny's/Evan's recommendations. Check back for this!
+No scheduled updates at this time. I think the changes Evan made to the current release pretty much covered all the necessities. Thanks Evan!
 
 Details:
 
-The Mar 17, 2021 update now features more error detection, ability to easily compile in 32-bit or 64-bit variations, command 
+The Mar 18, 2021 update now features more error detection, ability to easily compile in 32-bit or 64-bit variations, command 
 line arguents, a cleaner code format, and a document handle as may be required by the shellcode. Use the "-h" command line 
 switch to get the help information!
 
