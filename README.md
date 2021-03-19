@@ -13,6 +13,10 @@ Initial Thoughts:
 
 Many thanks and kudos to Lenny Zeltser for an outstanding SANS FOR610 course. I just didn't like the "jmp2it" tool, sorry! :)
 
+Evan has a copy of the current release of this tool over at his repository as well:
+
+https://github.com/edygert/runsc
+
 Summary:
 
 This program is a malware analysis tool intended to make it easy to launch shellcode prior to debugging. Source code 
