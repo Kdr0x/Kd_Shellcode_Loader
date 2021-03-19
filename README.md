@@ -9,7 +9,7 @@ Date: 		3/15/2021 (original)
 
 Current version directory: /current_2021-Mar-18/
 
-Initial Thoughts:
+===== Initial Thoughts =====
 
 Many thanks and kudos to Lenny Zeltser for an outstanding SANS FOR610 course. I just didn't like the "jmp2it" tool, sorry! :)
 
@@ -17,16 +17,16 @@ Evan has a copy of the current release of this tool over at his repository as we
 
 https://github.com/edygert/runsc
 
-Summary:
+===== Summary =====
 
 This program is a malware analysis tool intended to make it easy to launch shellcode prior to debugging. Source code 
 has been included in the GitHub repository.
 
-Future Updates:
+===== Future Updates =====
 
 No scheduled updates at this time. I think the changes Evan made to the current release pretty much covered all the necessities. Thanks Evan!
 
-Details:
+===== Details =====
 
 The Mar 18, 2021 update now features more error detection, ability to easily compile in 32-bit or 64-bit variations, command 
 line arguents, a cleaner code format, and a document handle as may be required by the shellcode. Use the "-h" command line 
