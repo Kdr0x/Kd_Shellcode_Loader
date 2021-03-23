@@ -29,7 +29,7 @@ No scheduled updates at this time. I think the changes Evan made to the current 
 ===== Details =====
 
 The Mar 18, 2021 update now features more error detection, ability to easily compile in 32-bit or 64-bit variations, command 
-line arguents, a cleaner code format, and a document handle as may be required by the shellcode. Use the "-h" command line 
+line arguments, a cleaner code format, and a document handle as may be required by the shellcode. Use the "-h" command line 
 switch to get the help information!
 
 The tool launches with no arguments from the user; as such there is no help output! Upon launching, it will first check for 
